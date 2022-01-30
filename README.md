@@ -2,7 +2,7 @@
 
 ## Overview
 
-Puzzle Bobble like game programming
+Puzzle Bobble-like game project using Monogame (C#).
 
 ## Mechanic
 
