@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YA8imWFierfJP+XN8V6eCHY/ysmG2h7LY/+TIGPB+AMT6r3re0So5j+Sc0p+QO7CVg3dSQpAtPo0a0uv5LQ6Cg==",
+  "success": true,
+  "projectFilePath": "/Users/poomyimyuean/Desktop/Poomkun/Hub/Code/ProjectCS/comgame/bubblemid/game/game.csproj",
+  "expectedPackageFiles": [
+    "/Users/poomyimyuean/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/poomyimyuean/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512",
+    "/Users/poomyimyuean/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/poomyimyuean/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/poomyimyuean/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.22/microsoft.netcore.app.host.osx-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
